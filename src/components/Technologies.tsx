@@ -5,8 +5,8 @@ export default function Technologies() {
     <div className='flex flex-col items-center justify-center my-10'>
       <div className='flex flex-col gap-12 items-center justify-center mb-10'>
         <div className='relative'>
-            <div className='h-0 w-[1277px] border-b-8 border-[#FF6060] mt-[72px]'></div>
-            <div className='text-[#5F5F5F] z-20 text-[70px] absolute top-1/4 left-1/3 px-12 bg-white'>Technologies</div>
+            <div className='h-0 w-[80rem] border-b-8 border-[#FF6060] mt-[72px]'></div>
+            <div className='text-[#5F5F5F] z-20 text-[70px] absolute top-1/4 left-[30%] px-12 bg-white'>Technologies</div>
         </div>
         <p className='text-[#5F5F5F] text-[32px] pl-4'>Domains That Excite Us to Collaborate and Teach!</p>
       </div>
